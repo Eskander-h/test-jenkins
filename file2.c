@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-void main()
+
+int main()
 {
+	
 	printf("testing Jenkins");
+	return 0;
 
 }
